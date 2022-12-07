@@ -7,4 +7,4 @@
 
 ###-💞️ I’m looking to collaborate on Development
 
-###- 📫 How to reach me: ##rishavj032@gmail.com ,##https://www.linkedin.com/in/rishav-jain-9aa606195/
+###- 📫 How to reach me: ##https://www.linkedin.com/in/rishav-jain-9aa606195/
