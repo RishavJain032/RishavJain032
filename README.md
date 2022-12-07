@@ -3,7 +3,7 @@
 
 ###-👋 Hi, I’m @RISHAV_JAIN
 
-###- 🌱 I’m currently learning Full Stack Web Developmen @Geekster
+###- 🌱 I’m currently learning Full Stack Web Development @Geekster
 
 ###-💞️ I’m looking to collaborate on Development
 
