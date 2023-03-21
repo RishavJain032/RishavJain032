@@ -8,7 +8,3 @@
 💞️ I’m looking to collaborate on Development
 
  📫 How to reach me: ##https://www.linkedin.com/in/rishav-jain-9aa606195/
- 
- 
- 🛠️ Languages and Tools :
- Java  React  CSS  HTML  JavaScript  MySQL  Git
