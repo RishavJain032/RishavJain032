@@ -1,7 +1,3 @@
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RishavJian032)](https://github.com/RishavJain032/github-profile-trophy)
 ### Hi there 👋
  😄 Pronouns:He/Him
 
